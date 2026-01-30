@@ -1,2 +1,2 @@
 # Application_Security_Case_Studies
-Case studies for application security using the OWASP Top Ten
+Practical application security case studies demonstrating vulnerability discovery, impact analysis, and remediation strategies across modern web applications.
